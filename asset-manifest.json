@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kiwiSports/static/css/main.3cbfe104.css",
+    "main.js": "/kiwiSports/static/js/main.fc1129f6.js",
+    "static/media/googlemap.png": "/kiwiSports/static/media/googlemap.3e02d67015610ee1218d.png",
+    "index.html": "/kiwiSports/index.html",
+    "main.3cbfe104.css.map": "/kiwiSports/static/css/main.3cbfe104.css.map",
+    "main.fc1129f6.js.map": "/kiwiSports/static/js/main.fc1129f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cbfe104.css",
+    "static/js/main.fc1129f6.js"
+  ]
+}
